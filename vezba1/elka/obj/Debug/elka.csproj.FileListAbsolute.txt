@@ -1,0 +1,7 @@
+C:\Users\code\source\repos\vezba1\elka\bin\Debug\elka.exe.config
+C:\Users\code\source\repos\vezba1\elka\bin\Debug\elka.exe
+C:\Users\code\source\repos\vezba1\elka\bin\Debug\elka.pdb
+C:\Users\code\source\repos\vezba1\elka\obj\Debug\elka.csprojAssemblyReference.cache
+C:\Users\code\source\repos\vezba1\elka\obj\Debug\elka.csproj.CoreCompileInputs.cache
+C:\Users\code\source\repos\vezba1\elka\obj\Debug\elka.exe
+C:\Users\code\source\repos\vezba1\elka\obj\Debug\elka.pdb
